@@ -1,5 +1,9 @@
 ## Calendar
+# Demo
 
+![](screen.jpg)
+
+The demo page is [HERE](http://qidaping.github.io/calendar/index.html).
 > 日历选择插件
 # API
  * show
